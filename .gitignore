@@ -1,0 +1,16 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+*.log
+*.sqlite3
+
+# === Virtual Envs ===
+backend/.venv/
+.venv/
+env/
+venv/
+ENV/
