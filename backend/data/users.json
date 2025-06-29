@@ -1,0 +1,43 @@
+[
+    {
+      "id": "d77e3d4e-1d2f-4b5f-84b9-927ea89cf96b",
+      "email": "grace@turing.io",
+      "interests": ["ai", "startups", "privacy"],
+      "signup_date": "2025-06-22T15:00:00Z",
+      "unsubscribed": false,
+      "email_frequency": "weekly"
+    },
+    {
+      "id": "c029e9dc-89f8-4dc1-93c1-2be2e3c10467",
+      "email": "linus@opensource.dev",
+      "interests": ["linux", "open source", "devtools"],
+      "signup_date": "2025-06-23T09:10:00Z",
+      "unsubscribed": false,
+      "email_frequency": "weekly"
+    },
+    {
+      "id": "39d02a86-8fcd-4c7e-934c-8ac1d57e2a74",
+      "email": "ada@blockchain.net",
+      "interests": ["crypto", "security", "distributed systems"],
+      "signup_date": "2025-06-25T11:45:00Z",
+      "unsubscribed": false,
+      "email_frequency": "weekly"
+    },
+    {
+      "id": "ecda1122-5424-4551-98b7-35d5868f0d4f",
+      "email": "kevin@mlstack.ai",
+      "interests": ["machine learning", "data science", "ai"],
+      "signup_date": "2025-06-24T19:20:00Z",
+      "unsubscribed": false,
+      "email_frequency": "weekly"
+    },
+    {
+      "id": "19fb844f-04b3-4c13-86cf-06b9ffb92f0d",
+      "email": "pam@web3.dev",
+      "interests": ["web3", "crypto", "startups"],
+      "signup_date": "2025-06-26T16:35:00Z",
+      "unsubscribed": false,
+      "email_frequency": "weekly"
+    }
+  ]
+  
